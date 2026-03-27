@@ -76,13 +76,23 @@ export default function LoginPage() {
         <h2 className="title-small">Demo accounts</h2>
         <div className="kv">
           <div>
-            <div className="kv__k">Alex</div>
-            <div className="kv__v">alex@example.com</div>
+            <div className="kv__k">Arbaz</div>
+            <div className="kv__v">arbaz@example.com</div>
             <div className="kv__v muted">Password123!</div>
           </div>
           <div>
-            <div className="kv__k">Sam</div>
-            <div className="kv__v">sam@example.com</div>
+            <div className="kv__k">Ali</div>
+            <div className="kv__v">ali@example.com</div>
+            <div className="kv__v muted">Password123!</div>
+          </div>
+          <div>
+            <div className="kv__k">Ahmad</div>
+            <div className="kv__v">ahmad@example.com</div>
+            <div className="kv__v muted">Password123!</div>
+          </div>
+          <div>
+            <div className="kv__k">Sara</div>
+            <div className="kv__v">sara@example.com</div>
             <div className="kv__v muted">Password123!</div>
           </div>
         </div>
